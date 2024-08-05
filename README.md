@@ -1,16 +1,15 @@
-## Hi there 👋
+***sou Kauzin7klx***
 
-<!--
-**kaua777klx/kaua777klx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* estou aprendendo java Script
+* Quero compartilhar meus projetos com vcs 
+* Eu estou estudando na [Alura](https://www.alura.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comigo ### :gmail
+ kaua.stankievski@escola.pr.gov.br
+ 
+ Insta: @Kauazin7klx
+
+
+ ![](https://media1.tenor.com/m/NjZL-9K4CJgAAAAC/kevin-bueno-kevin.gif)
+ ![](https://media.tenor.com/UAWf6nLIyyYAAAAi/free-fire.gif)
